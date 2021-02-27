@@ -1,0 +1,344 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speakers on DevOpsDays Texas 2021</title>
+    <link>https://devopsdays-texas.github.io/speakers/</link>
+    <description>Recent content in Speakers on DevOpsDays Texas 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>MIT</copyright>
+    
+        <atom:link href="https://devopsdays-texas.github.io/speakers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alanna Burke</title>
+      <link>https://devopsdays-texas.github.io/speakers/alanna-burke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/alanna-burke/</guid>
+      <description>&lt;p&gt;After ten years as a back-end developer, Alanna decided a change was in order. Still carrying a torch for Drupal, content management systems, and helping others, she is now working as a documentation writer, trainer, and developer advocate at Amazee.io. Alanna also serves as a track chair for DrupalCon North America, is on the leadership team of Drupal Diversity and Inclusion, and serves the Drupal Community Working Group as an ambassador to Drupal Diversity and Inclusion. The proud owner of many pets, including several guinea pigs, she is also very involved in animal rescue.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Alina Domanov</title>
+      <link>https://devopsdays-texas.github.io/speakers/alina-domanov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/alina-domanov/</guid>
+      <description>&lt;p&gt;My name is Alina Domanov, I am 23 years old and I live in Buenos Aires, Argentina.
+I am a DevOps Engineer at Cognizant Softvision, with experience on different cloud providers such as Google Cloud, Amazon Web Services and Microsoft Azure.
+At a technological level, I used Kubernetes for the container orchestration and Docker for building, deploying, and managing containerized applications.
+I consider myself a person who likes challenges and who learns quickly. My experience with Kubernetes in PaaS stands out in the development of solutions with Terraform to achieve the automation of the clusters creation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ashton Rodenhiser</title>
+      <link>https://devopsdays-texas.github.io/speakers/ashton-rodenhiser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/ashton-rodenhiser/</guid>
+      <description>&lt;p&gt;Ashton Rodenhiser is passionate about lifting the creative spirit in everyone that she meets. For the past seven years, she has followed her passion for helping people communicate their ideas and combined that with creativity by founding Mind&amp;rsquo;s Eye Creative Consulting.&lt;/p&gt;
+&lt;p&gt;You’ll often find her with markers in hand as she’s helping bring ideas to life through graphic recording and graphic facilitation practices.&lt;/p&gt;
+&lt;p&gt;She’s worked with diverse groups, from non-profits to Fortune 500 companies. It may appear as if she’s the silent illustrator in the room. In fact, she’s helping to break down complex concepts and notions into an easily understandable visual language, helping others retain more information while inspiring people to continue practicing her techniques in the world.&lt;/p&gt;
+&lt;p&gt;Over the years, she has brought close to a thousand presentations and conversations to life either on paper or digitally.&lt;/p&gt;
+&lt;p&gt;When she’s not working with clients, she’s being silly with her three young kids and husband in rural Canada.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Austin Parker</title>
+      <link>https://devopsdays-texas.github.io/speakers/austin-parker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/austin-parker/</guid>
+      <description>&lt;p&gt;Austin Parker has been solving - and creating - problems with computers and technology for most of his life. He is Principal Developer Advocate at LightStep and maintainer on the OpenTracing and OpenTelemetry projects. His professional dream is to build a world where we&amp;rsquo;re able to create and run more reliable software. In addition to his professional work, he&amp;rsquo;s taught college classes, spoken about all things DevOps and Distributed Tracing, and even found time to start a podcast. Austin is also the co-author of the forthcoming book Distributed Tracing in Practice, available in early 2020 from O&amp;rsquo;Reilly Media.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Boyd Hemphill</title>
+      <link>https://devopsdays-texas.github.io/speakers/boyd-hemphill/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/boyd-hemphill/</guid>
+      <description>&lt;p&gt;Boyd Hemphill is a DevOps raconteur in the silicon hills of Austin Texas. Boyd founded and organizes the Austin DevOps Meetup. He is part of the DevOps Days Austin Organizers team. In his professional life, Boyd has been a developer (PL/SQL, PHP), DBA (Oracle and MySQL), and system administrator as well as a Director and even a CTO. Today he is the Director of Cloud Infrastructure for Contrast Security.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brittany Woods</title>
+      <link>https://devopsdays-texas.github.io/speakers/brittany-woods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/brittany-woods/</guid>
+      <description>&lt;p&gt;Brittany Woods is an automator of things based in central Missouri. During her career in technical roles spanning across both the financial and the automotive sector, Brittany has been a major advocate for utilizing DevOps and automation to enhance velocity, increase innovation, and drive business value. She enjoys work that spans not only across DevOps and automation spaces but also into systems architecture and cloud solutions and adoption as well. Additionally, Brittany enjoys teaching others, sharing knowledge through conference speaking, and leading teams.&lt;/p&gt;
+&lt;p&gt;When she’s not automating the things, Brittany enjoys the casual binge watch on your favorite streaming service, lazy weekends, clarinet and bass guitar playing, and home improvement projects.&lt;/p&gt;
+&lt;p&gt;Brittany is currently a Lead Cloud Automation Engineer with H&amp;amp;R Block.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dan Zentgraf</title>
+      <link>https://devopsdays-texas.github.io/speakers/dan-zentgraf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/dan-zentgraf/</guid>
+      <description>&lt;p&gt;Dan is a technology professional focused on bringing DevOps practices to enterprises.
+He has over 20 years in the IT space and has served in a variety of capacities including Product Management, Agile/DevOps consulting &amp;amp; coaching, and Solution Engineering.&lt;/p&gt;
+&lt;p&gt;An active member of the Austin technology community, Dan ran the first regular DevOps meetup for the Agile Austin community, and has been an organizer for DevOps Days Austin for most of its nine years.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ell Marquez</title>
+      <link>https://devopsdays-texas.github.io/speakers/ell-marquez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/ell-marquez/</guid>
+      <description>&lt;p&gt;Former sysadmin, cloud builder, podcaster, and container advocate - has always been a security enthusiast. This enthusiasm and driven curiosity have helped her as she has become an active member of the InfoSec community, leading her to explore the groundbreaking &amp;amp; exciting world of Genetic Software Mapping at Intezer labs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>George Clement</title>
+      <link>https://devopsdays-texas.github.io/speakers/george-clement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/george-clement/</guid>
+      <description>&lt;p&gt;George has been with Intel for 20 yrs developing software and integrating hardware solutions for external and internal customers. George currently works as a senior solutions architect on the Intel Data Center Manager Team. There he assists customers and partners on data center efficiency and reconfiguration projects using server telemetry data to optimize workload, scheduling, heating / cooling efficiency.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jason Yee</title>
+      <link>https://devopsdays-texas.github.io/speakers/jason-yee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/jason-yee/</guid>
+      <description>&lt;p&gt;Jason Yee is Director of Advocacy at Gremlin where he helps people build more resilient systems by learning from how they fail. He also leads the internal Chaos Engineering practices to make Gremlin more reliable. Previously, he worked at Datadog, O’Reilly Media, and MongoDB. His pandemic-coping activities include drinking whiskey, cooking everything in a waffle iron, and making chocolate.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jay Gordon</title>
+      <link>https://devopsdays-texas.github.io/speakers/jay-gordon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/jay-gordon/</guid>
+      <description>&lt;p&gt;Jay Gordon is a Cloud Advocate with the Microsoft Azure Advocates. He and the rest of the Advocacy team are focused on helping Developers and Ops teams get the most out of their cloud experience with Microsoft Azure. Prior to Microsoft, Jay was part of teams at DigtialOcean, BuzzFeed and MongoDB. Jay lives in Brooklyn, NY with his wife and a weird dog.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jeremy Meiss</title>
+      <link>https://devopsdays-texas.github.io/speakers/jeremy-meiss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/jeremy-meiss/</guid>
+      <description>&lt;p&gt;Jeremy is the Head of DevRel &amp;amp; Community at CircleCI, previously at Solace, Auth0, and XDA. He is a lover of all things coffee, community, open source, and tech. He is also house-broken, and (generally) plays well with others.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jim Armstrong</title>
+      <link>https://devopsdays-texas.github.io/speakers/jim-armstrong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/jim-armstrong/</guid>
+      <description>&lt;p&gt;I started my career doing traditional IT security at McAfee, in the days when servers where physical and you still had to screw in
+network plugs to the back of your computer. As virtual machines took over the world I joined VMware, and helped make servers, networks and storage software-defined. Then this cool little tool called Docker started popping up everywhere and I realized containers were going to change the world again and I was lucky enough to join Docker and be part of that revolution. These days, I&amp;rsquo;m taking what I&amp;rsquo;ve learned at Docker, VMware, and McAfee and
+helping companies securely build applications using open source, containers, and IaC at Snyk.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>John Kimball</title>
+      <link>https://devopsdays-texas.github.io/speakers/john-kimball/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/john-kimball/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a 31 year IT professional who has held various positions throughout my 3 decade career ranging from UNIX sysadmin, webmaster, application server administrator, order management system engineer, integration systems enginer and DevOps engineer. I&amp;rsquo;m a DevOps evangelist and have attended several DevOpsDays events throughout my career.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kat Cosgrove</title>
+      <link>https://devopsdays-texas.github.io/speakers/kat-cosgrove/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/kat-cosgrove/</guid>
+      <description>&lt;p&gt;Kat Cosgrove is a Developer Advocate at JFrog, and an actual cyborg. Her professional background has run the gamut from bartender, to video store clerk, to teacher, to software developer. She credits this wide-ranging experience for her success as a speaker, developer, and advocate. Her specialty is approachable 101-level content for junior developers or anyone else who considers themselves a newbie, with a particular focus on DevOps.&lt;/p&gt;
+&lt;p&gt;When she&amp;rsquo;s not building demos or at a conference, she spends her time playing video games, watching horror movies, and reading science fiction. She lives in Seattle with her cat, Espresso, who is the real brains behind the operation and actually ghostwriting all of her tweets.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kiran Oliver</title>
+      <link>https://devopsdays-texas.github.io/speakers/kiran-oliver/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/kiran-oliver/</guid>
+      <description>&lt;p&gt;Rin is a Technical Community Builder at Camunda. They enjoy discussing all things open source, with a particular focus on diversity in tech, improving hiring pipelines in OSS for those that are neurodivergent, and removing accessibility barriers to learning programming.&lt;/p&gt;
+&lt;p&gt;Rin is also a Member of Kubernetes, a contributor to Spinnaker, involved in the Kubernetes Contributor Experience SIG, and is a Storyteller on the Kubernetes Upstream Marketing Team. When not immersed in all things OSS and cloud-native, they can be found hanging out with their wife and pets, making candles, cooking, or gaming.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Laura Santamaria</title>
+      <link>https://devopsdays-texas.github.io/speakers/laura-santamaria/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/laura-santamaria/</guid>
+      <description>&lt;p&gt;As LogDNA’s Developer Advocate, Laura Santamaria loves to learn and explain how things work. She bridges the gap between external developers and SREs and internal engineering teams. Prior to LogDNA, Laura worked as a software developer at Rackspace where, among other things, she owned Deconst, an open-source documentation delivery platform, and MC’ed Rackspace’s internal technical conference. Apart from work, she helps host tech Meetups, taught Python for Women Who Code Austin for many years, and volunteers with DevOpsDays Austin. Outside of tech, Laura runs, plays with her dogs, throws discs, and watches clouds—the real kind.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lesley Cordero</title>
+      <link>https://devopsdays-texas.github.io/speakers/lesley-cordero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/lesley-cordero/</guid>
+      <description>&lt;p&gt;Lesley Cordero is currently a tech lead at an edtech company, Teachers Pay Teachers. She has spent the majority of her career on edtech teams as an engineer, including Google for Education and other edtech startups.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mark Peters</title>
+      <link>https://devopsdays-texas.github.io/speakers/mark-peters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/mark-peters/</guid>
+      <description>&lt;p&gt;Dr. Mark Peters works for Technica Corporation as Lead Information Assurance/Security Engineer on a US Air Force cyber weapon system program in San Antonio, TX  emphasizing DevOps during an Agile transition.  During a full US Air Force intelligence career, he worked with various units to integrate and automate intelligence with operational delivery.   A cybersecurity expert, he holds multiple industry certifications including a CISSP.  The author of the book, &amp;ldquo;Cashing in on Cyberpower&amp;rdquo; to analyze 10 years of cyber-attacks from an economic perspective. In his spare time, he reads, thinks, writes, and then speaks and is also a Judo black belt.  A DevOps Institute ambassador, he enjoys working with individuals to implement DevSecOps. He remains excited by the potential to incorporate DevOps across multiple industries.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Matt Stratton</title>
+      <link>https://devopsdays-texas.github.io/speakers/matt-stratton/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/matt-stratton/</guid>
+      <description>&lt;p&gt;Matt Stratton is a Transformation Specialist at Red Hat and a long-time member of the global DevOps community. Back in the day, his license plate actually said “DevOps”.&lt;/p&gt;
+&lt;p&gt;Matt has over 20 years of experience in IT operations, ranging from large financial institutions such as JPMorganChase to internet firms including Apartments.com. He is a sought-after speaker internationally, presenting at Agile, DevOps, and ITSM focused events, including DevOps Enterprise Summit, DevOpsDays, Interop, PINK, and others worldwide. Matt is the founder and co-host of the popular Arrested DevOps podcast, as well as a global organizer of the DevOpsDays set of conferences.&lt;/p&gt;
+&lt;p&gt;He lives in Chicago and has three awesome kids - Henry, Joey, and Sophia, who he loves just a little bit more than he loves &lt;em&gt;Doctor Who&lt;/em&gt;. He is currently on a mission to discover the best pho in the world.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mike Rosado</title>
+      <link>https://devopsdays-texas.github.io/speakers/mike-rosado/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/mike-rosado/</guid>
+      <description>&lt;p&gt;Many people know Mike on social media as bona fide Señor Pinky 👁️♥️2️⃣💪♀️⚙️👩‍💻 for a couple of reasons, just AHA (ask him anything). Mike enjoys sharing his views as it relates to the cultural movement of DevOps, and technologies that contribute to the continuous improvement with customers in the United States and throughout Latin America. He enjoys it so much, that he became one of the integral local organizers of DevOpsDays Dallas, DevOps Live Meetup, and is an active Global Core Organizer of devopsdays.org.&lt;/p&gt;
+&lt;p&gt;Since Mike’s involvement in the DevOps space, he’s received exemplary recommendations in social media such as the LinkedIn community groups, Facebook, and Twitter. Mike’s passion in this field shines as he mentors others, and enjoys tackling challenges. Mike’s vast experience in helping Enterprise customers for 22+ years at Microsoft in various capacity serves as a base as he continues to evolve in his DevOps journey.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mofizur Rahman</title>
+      <link>https://devopsdays-texas.github.io/speakers/mofizur-rahman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/mofizur-rahman/</guid>
+      <description>&lt;p&gt;Mofizur Rahman (@moficodes) is a Developer Advocate at IBM. His area of interests include container orchestration and micro services. His favorite programming language these days is Go. He also tinkers with Node, Python and Java. He is also learning and teaching in the Go, Kubernetes, Docker and Microservice community. He is a strong believer of the power open source and importance of giving back to the community. He is a self proclaimed sticker collecting addict and has collected several box full of stickers with no signs of stopping. He dabbles in photography sometimes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mya Pitzeruse</title>
+      <link>https://devopsdays-texas.github.io/speakers/mya-pitzeruse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/mya-pitzeruse/</guid>
+      <description>&lt;p&gt;Mya is a passionate software engineer who enjoys working across the entire stack. She recently joined effx and has made major headway in simplifying the management of their infrastructure systems. Previously, Mya was a principal engineer working on Indeed’s cloud and Kubernetes migrations across compute, storage, and observability. She’s a mother of one, who enjoys working on the occasional side project among many other activities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nigel Brown</title>
+      <link>https://devopsdays-texas.github.io/speakers/nigel-brown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/nigel-brown/</guid>
+      <description>&lt;p&gt;Nigel is a Developer Advocate for IBM Cloud based in Austin, Texas. Originally from South Carolina, he was drawn to the craft of software engineering because of the agency it provides people to create and interact with worlds of their own creation. He focuses on Cloud Native Technologies like Containers, Kubernetes, and OpenShift. His passions in technology are community building, High Performance Computing, and free and open-source software (and hardware).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quintessence Anx</title>
+      <link>https://devopsdays-texas.github.io/speakers/quintessence-anx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/quintessence-anx/</guid>
+      <description>&lt;p&gt;Quintessence meandered into developer relations after a long tenure in IT and operations roles. After running AWS bills up and then bringing them back down again, she brought her &amp;ldquo;lessons learned&amp;rdquo; to PagerDuty, where she is a Developer Advocate. Outside of work, she co-founded Inclusive Tech Buffalo and mentors underrepresented groups to help them launch sustainable careers in technology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reggie Davis</title>
+      <link>https://devopsdays-texas.github.io/speakers/reggie-davis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/reggie-davis/</guid>
+      <description>&lt;p&gt;Reggie is SRE for Schlumberger who has a passion for cloud-native application development through the use of tools like Kubernetes and Golang, as well as, improving the culture of technology by creating highly collaborative environments. Co-host of &amp;lsquo;Coolest Nerds in the Room&amp;rsquo; podcast and co-founder of the meetup group, &amp;lsquo;Tech for the Culture&amp;rsquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ryan Hillard</title>
+      <link>https://devopsdays-texas.github.io/speakers/ryan-hillard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/ryan-hillard/</guid>
+      <description>&lt;p&gt;Ryan Hillard is a systems developer at the U.S. Small Business Administration. Ryan currently oversees his agency’s cloud infrastructure in Amazon Web Services, which powers critical websites and web applications such as SBA.gov, SBIR.gov, and NWBC.gov. He splits his time between web development and infrastructure. In the past, he has spoken at GitHub Constellation and helped organize the first DevOpsDays Houston event.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Taylor Barnett</title>
+      <link>https://devopsdays-texas.github.io/speakers/taylor-barnett/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/taylor-barnett/</guid>
+      <description>&lt;p&gt;Taylor Barnett is a Senior Community Engineer at &lt;a href=&#34;https://www.transposit.com/&#34;&gt;Transposit&lt;/a&gt;. She is passionate about building great technical user experiences with an emphasis on empathy within Product and Documentation and spends a considerable amount of time thinking about API integrations.&lt;/p&gt;
+&lt;p&gt;After leaving software engineering roles at a couple of companies, Taylor led Developer Relations at Stoplight and worked with the developer community, SDKs, and documentation at Keen. She has spoken at conferences such as O&amp;rsquo;Reilly OSCON, GlueCon, API Strategy &amp;amp; Practice, and DevXcon. She is currently the program chair of the API Specifications Conference.&lt;/p&gt;
+&lt;p&gt;In her free time, she&amp;rsquo;s either climbing rocks with friends, trying to find the funkiest sour beers, or hanging out with her corgi, Yoda, in Austin, Texas.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thomas Adams</title>
+      <link>https://devopsdays-texas.github.io/speakers/thomas-adams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/thomas-adams/</guid>
+      <description>&lt;p&gt;Tommy has been in IBM Systems Assurance for over 18 years, primarily working in Power Hardware Systems Test. His roles have included test engineer, team lead, release manager, and test architect. In recent years, his focus has been on improving the test organization through better tooling and automation, pioneering DevOps and Agile along the way. Tommy currently serves as the Chief Strategist and Automation Architect for the Power Hardware Test area where he focuses on transforming the test organization through emerging technologies such as Machine Learning, Cloud, and Data Analytics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tim Davis</title>
+      <link>https://devopsdays-texas.github.io/speakers/tim-davis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/tim-davis/</guid>
+      <description>&lt;p&gt;Tim Davis is the DevOps Advocate for env0. Prior to env0, Tim helped build the Cloud and Developer Advocacy team at VMware. His background is in Infrastructure Operations / Architecture, while always focusing on the business critical applications that run the business. While at VMware, his focus area was on DevOps Process / Procedure, and CI/CD Process / Tooling.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tracy P Holmes</title>
+      <link>https://devopsdays-texas.github.io/speakers/tracy-p-holmes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/speakers/tracy-p-holmes/</guid>
+      <description>&lt;p&gt;A &amp;ldquo;jackie of all trades&amp;rdquo; (and mistress of being herself), Tracy has experienced both sides of HashiCorp’s Terraform - as a Software Engineer and now a Developer Advocate. When she isn&amp;rsquo;t speaking or leveling up her programming skills to make the Terraform ecosystem even better, she likes baking, volunteering, hanging with her pup, and reading mysteries. She is a strong believer that open source is like gardening - pay attention to your conditions, and water only when needed.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

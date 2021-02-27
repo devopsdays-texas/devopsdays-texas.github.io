@@ -68,17 +68,7 @@
   </url>
   
   <url>
-    <loc>https://devopsdays-texas.github.io/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://devopsdays-texas.github.io/howto/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devopsdays-texas.github.io/schedule/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,8 +78,196 @@
   </url>
   
   <url>
-    <loc>https://devopsdays-texas.github.io/sponsors/</loc>
+    <loc>https://devopsdays-texas.github.io/old-sponsors/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/alanna-burke/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/alina-domanov/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/sponsors/arresteddo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/ashton-rodenhiser/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/austin-parker/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/boyd-hemphill/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/sponsors/bridgecrew/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/brittany-woods/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/sponsors/buurst/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/sponsors/chef/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/conduct/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/dan-zentgraf/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/ell-marquez/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/sponsors/env0/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/george-clement/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/jason-yee/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/jay-gordon/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/jeremy-meiss/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/jim-armstrong/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/john-kimball/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/kat-cosgrove/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/kiran-oliver/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/laura-santamaria/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/lesley-cordero/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/sponsors/liatro/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/sponsors/logdna/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/mark-peters/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/matt-stratton/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/mike-rosado/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/mofizur-rahman/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/mya-pitzeruse/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/nigel-brown/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/quintessence-anx/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/reggie-davis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/ryan-hillard/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/schedule/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/sponsors/site24x7/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/sponsors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/sponsors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/sponsors/stackhawk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/sponsors/statefarm/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/taylor-barnett/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/thomas-adams/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/tim-davis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/speakers/tracy-p-holmes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/sponsors/transposit/</loc>
   </url>
   
   <url>
@@ -97,7 +275,15 @@
   </url>
   
   <url>
+    <loc>https://devopsdays-texas.github.io/sponsors/twosigma/</loc>
+  </url>
+  
+  <url>
     <loc>https://devopsdays-texas.github.io/vs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/sponsors/wellsky/</loc>
   </url>
   
 </urlset>
