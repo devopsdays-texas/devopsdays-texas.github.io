@@ -21,30 +21,6 @@
     </item>
     
     <item>
-      <title>How To Conference</title>
-      <link>https://devopsdays-texas.github.io/howto/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://devopsdays-texas.github.io/howto/</guid>
-      <description>&lt;p&gt;Here&amp;rsquo;s a quick guide on using Discord and YouTube to participate in our 100% Digital conference!&lt;/p&gt;
-&lt;h2 id=&#34;get-a-ticket&#34;&gt;Get a Ticket&lt;/h2&gt;
-&lt;h2 id=&#34;discord&#34;&gt;Discord&lt;/h2&gt;
-&lt;h3 id=&#34;openspaces&#34;&gt;OpenSpaces&lt;/h3&gt;
-&lt;h2 id=&#34;youtube&#34;&gt;YouTube&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Speakers</title>
-      <link>https://devopsdays-texas.github.io/speakers/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://devopsdays-texas.github.io/speakers/</guid>
-      <description>&lt;p&gt;Speaker Bios&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Sponsors</title>
       <link>https://devopsdays-texas.github.io/old-sponsors/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
@@ -87,7 +63,39 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devopsdays-texas.github.io/conduct/</guid>
-      <description></description>
+      <description>&lt;p&gt;All attendees, speakers, sponsors, and volunteers at devopsdays Texas 2021 are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensure a safe environment for everybody.&lt;/p&gt;
+&lt;h3 id=&#34;the-quick-version&#34;&gt;The Quick Version&lt;/h3&gt;
+&lt;p&gt;Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter, and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.&lt;/p&gt;
+&lt;h3 id=&#34;the-less-quick-version&#34;&gt;The Less Quick Version&lt;/h3&gt;
+&lt;p&gt;Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.&lt;/p&gt;
+&lt;p&gt;Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.&lt;/p&gt;
+&lt;p&gt;If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.&lt;/p&gt;
+&lt;p&gt;If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately.&lt;/p&gt;
+&lt;p&gt;Conference staff can be identified by their user status in Discord &amp;ndash; Admins, Volunteers, and Organizers can help you. Conference staff will be happy to help participants contact local law enforcement, ban other participants, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.&lt;/p&gt;
+&lt;p&gt;We expect participants to follow these rules at conference and workshop venues and conference-related social events.&lt;/p&gt;
+&lt;p&gt;The devopsdays Texas 2021 Code of Conduct is based on &lt;a href=&#34;http://confcodeofconduct.com&#34;&gt;http://confcodeofconduct.com&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How To Attend</title>
+      <link>https://devopsdays-texas.github.io/howto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdays-texas.github.io/howto/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s a quick guide on using Discord and YouTube to participate in our 100% Digital conference!&lt;/p&gt;
+&lt;h2 id=&#34;get-a-ticket&#34;&gt;Get a Ticket&lt;/h2&gt;
+&lt;p&gt;You&amp;rsquo;ll need to register at &lt;a href=&#34;https://www.eventbrite.com/e/devopsdays-texas-tickets-132588572991&#34;&gt;EventBrite&lt;/a&gt; to get a ticket. We will never sell your contact information to a third party. When you receive the &amp;ldquo;ticket&amp;rdquo; from EventBrite, it will have instructions on connceting to Discord and the link to the YouTube channel.&lt;/p&gt;
+&lt;h2 id=&#34;youtube&#34;&gt;YouTube&lt;/h2&gt;
+&lt;p&gt;Keynotes, talks, panels, and other content will be streamed via YouTube. The link to the YouTube channel will be provided in the Eventbrite Email.&lt;/p&gt;
+&lt;h2 id=&#34;discord&#34;&gt;Discord&lt;/h2&gt;
+&lt;p&gt;Participation, including the hallway track, discussion, OpenSpaces, Party Games, and Sponsor Rooms are hosted in Discord. Discord provides both video and chat interaction.&lt;/p&gt;
+&lt;p&gt;You will need to download and install &lt;a href=&#34;https://discord.com/&#34;&gt;The Discord Client&lt;/a&gt;, register for a Discord Account, and join the conference Discord Server via the link provided in the Eventbrite email.&lt;/p&gt;
+&lt;h3 id=&#34;hallway-track&#34;&gt;Hallway Track&lt;/h3&gt;
+&lt;p&gt;Please feel free to chat with your fellow conference attendees in the Grand Hall and Water Cooler channels. Sponsors are available in their rooms to demonstrate your products.&lt;/p&gt;
+&lt;h3 id=&#34;openspaces&#34;&gt;OpenSpaces&lt;/h3&gt;
+&lt;p&gt;One of the features we&amp;rsquo;ve all missed the most during the past year has been the free-form conversations and user-driven nature of &lt;a href=&#34;https://www.agilealliance.org/glossary/open-space&#34;&gt;OpenSpaces&lt;/a&gt;, also known as &amp;ldquo;unconferences&amp;rdquo;. We&amp;rsquo;ll be using Discord and several other tools to run a Digital OpenSpaces!&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -105,15 +113,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devopsdays-texas.github.io/speakers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sponsors</title>
-      <link>https://devopsdays-texas.github.io/sponsors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devopsdays-texas.github.io/sponsors/</guid>
       <description></description>
     </item>
     

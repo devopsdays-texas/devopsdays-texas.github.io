@@ -68,16 +68,6 @@
   </url>
   
   <url>
-    <loc>https://devopsdays-texas.github.io/howto/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devopsdays-texas.github.io/speakers/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://devopsdays-texas.github.io/old-sponsors/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
@@ -140,6 +130,10 @@
   
   <url>
     <loc>https://devopsdays-texas.github.io/speakers/george-clement/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devopsdays-texas.github.io/howto/</loc>
   </url>
   
   <url>
@@ -232,10 +226,6 @@
   
   <url>
     <loc>https://devopsdays-texas.github.io/speakers/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devopsdays-texas.github.io/sponsors/</loc>
   </url>
   
   <url>
