@@ -1,22 +1,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on DevOpsDays Texas 2021</title>
-    <link>https://devopsdays-texas.github.io/post/</link>
+    <link>https://devopsdaystexas.org/post/</link>
     <description>Recent content in Posts on DevOpsDays Texas 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>MIT</copyright>
     <lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://devopsdays-texas.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://devopsdaystexas.org/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Writing content</title>
-      <link>https://devopsdays-texas.github.io/post/writing-content/</link>
+      <link>https://devopsdaystexas.org/post/writing-content/</link>
       <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://devopsdays-texas.github.io/post/writing-content/</guid>
+      <guid>https://devopsdaystexas.org/post/writing-content/</guid>
       <description>&lt;p&gt;Check in this post a few tips to use Bento better :)&lt;/p&gt;
 &lt;h2 id=&#34;hiding-design-elements&#34;&gt;Hiding design elements&lt;/h2&gt;
 &lt;p&gt;You can hide elements shown in the single page. Check this example - from the &lt;a href=&#34;https://github.com/leonardofaria/bento/blob/master/exampleSite/content/about.md&#34;&gt;about page&lt;/a&gt;:&lt;/p&gt;
@@ -55,7 +55,7 @@ hideSuggestions = &amp;quot;true&amp;quot;
 &lt;h2 id=&#34;creating-full-width-content&#34;&gt;Creating full-width content&lt;/h2&gt;
 &lt;p&gt;Use the &lt;code&gt;.full-width&lt;/code&gt; class in elements you want to take the whole viewport width. Example:&lt;/p&gt;
 &lt;div class=&#34;full-width&#34;&gt;
-  &lt;img src=&#34;https://devopsdays-texas.github.io/images/vancouver.jpg&#34; alt=&#34;Vancouver&#34; /&gt;
+  &lt;img src=&#34;https://devopsdaystexas.org/images/vancouver.jpg&#34; alt=&#34;Vancouver&#34; /&gt;
 &lt;/div&gt;
 &lt;p&gt;Code:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&amp;lt;&lt;span style=&#34;color:#000080&#34;&gt;div&lt;/span&gt; &lt;span style=&#34;color:#008080&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#d14&#34;&gt;&amp;#34;full-width&amp;#34;&lt;/span&gt;&amp;gt;
@@ -74,10 +74,10 @@ hideSuggestions = &amp;quot;true&amp;quot;
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://devopsdays-texas.github.io/post/markdown-syntax/</link>
+      <link>https://devopsdaystexas.org/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://devopsdays-texas.github.io/post/markdown-syntax/</guid>
+      <guid>https://devopsdaystexas.org/post/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
 &lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;
 &lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;

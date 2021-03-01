@@ -1,31 +1,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DevOpsDays Texas 2021</title>
-    <link>https://devopsdays-texas.github.io/</link>
+    <link>https://devopsdaystexas.org/</link>
     <description>Recent content on DevOpsDays Texas 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>MIT</copyright>
     <lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://devopsdays-texas.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://devopsdaystexas.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Posts</title>
-      <link>https://devopsdays-texas.github.io/post/</link>
+      <link>https://devopsdaystexas.org/post/</link>
       <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://devopsdays-texas.github.io/post/</guid>
+      <guid>https://devopsdaystexas.org/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sponsors</title>
-      <link>https://devopsdays-texas.github.io/old-sponsors/</link>
+      <link>https://devopsdaystexas.org/old-sponsors/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://devopsdays-texas.github.io/old-sponsors/</guid>
+      <guid>https://devopsdaystexas.org/old-sponsors/</guid>
       <description>&lt;h2 id=&#34;captioning-sponsor&#34;&gt;Captioning Sponsor&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;State Farm&lt;/li&gt;
@@ -59,10 +59,10 @@
     
     <item>
       <title>Code of Conduct</title>
-      <link>https://devopsdays-texas.github.io/conduct/</link>
+      <link>https://devopsdaystexas.org/conduct/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devopsdays-texas.github.io/conduct/</guid>
+      <guid>https://devopsdaystexas.org/conduct/</guid>
       <description>&lt;p&gt;All attendees, speakers, sponsors, and volunteers at devopsdays Texas 2021 are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensure a safe environment for everybody.&lt;/p&gt;
 &lt;h3 id=&#34;the-quick-version&#34;&gt;The Quick Version&lt;/h3&gt;
 &lt;p&gt;Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter, and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.&lt;/p&gt;
@@ -79,10 +79,10 @@
     
     <item>
       <title>How To Attend</title>
-      <link>https://devopsdays-texas.github.io/howto/</link>
+      <link>https://devopsdaystexas.org/howto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devopsdays-texas.github.io/howto/</guid>
+      <guid>https://devopsdaystexas.org/howto/</guid>
       <description>&lt;p&gt;Here&amp;rsquo;s a quick guide on using Discord and YouTube to participate in our 100% Digital conference!&lt;/p&gt;
 &lt;h2 id=&#34;get-a-ticket&#34;&gt;Get a Ticket&lt;/h2&gt;
 &lt;p&gt;You&amp;rsquo;ll need to register at &lt;a href=&#34;https://www.eventbrite.com/e/devopsdays-texas-tickets-132588572991&#34;&gt;EventBrite&lt;/a&gt; to get a ticket. We will never sell your contact information to a third party. When you receive the &amp;ldquo;ticket&amp;rdquo; from EventBrite, it will have instructions on connceting to Discord and the link to the YouTube channel.&lt;/p&gt;
@@ -100,28 +100,28 @@
     
     <item>
       <title>Schedule</title>
-      <link>https://devopsdays-texas.github.io/schedule/</link>
+      <link>https://devopsdaystexas.org/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devopsdays-texas.github.io/schedule/</guid>
+      <guid>https://devopsdaystexas.org/schedule/</guid>
       <description>&lt;script type=&#34;text/javascript&#34; src=&#34;https://sessionize.com/api/v2/o48vgd07/view/GridSmart&#34;&gt;&lt;/script&gt;</description>
     </item>
     
     <item>
       <title>Speakers</title>
-      <link>https://devopsdays-texas.github.io/speakers/</link>
+      <link>https://devopsdaystexas.org/speakers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devopsdays-texas.github.io/speakers/</guid>
+      <guid>https://devopsdaystexas.org/speakers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sponsors</title>
-      <link>https://devopsdays-texas.github.io/sponsors/</link>
+      <link>https://devopsdaystexas.org/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devopsdays-texas.github.io/sponsors/</guid>
+      <guid>https://devopsdaystexas.org/sponsors/</guid>
       <description></description>
     </item>
     

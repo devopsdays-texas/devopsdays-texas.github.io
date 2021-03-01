@@ -1,31 +1,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on DevOpsDays Texas 2021</title>
-    <link>https://devopsdays-texas.github.io/categories/</link>
+    <link>https://devopsdaystexas.org/categories/</link>
     <description>Recent content in Categories on DevOpsDays Texas 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>MIT</copyright>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://devopsdays-texas.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://devopsdaystexas.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>syntax</title>
-      <link>https://devopsdays-texas.github.io/categories/syntax/</link>
+      <link>https://devopsdaystexas.org/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://devopsdays-texas.github.io/categories/syntax/</guid>
+      <guid>https://devopsdaystexas.org/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://devopsdays-texas.github.io/categories/themes/</link>
+      <link>https://devopsdaystexas.org/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://devopsdays-texas.github.io/categories/themes/</guid>
+      <guid>https://devopsdaystexas.org/categories/themes/</guid>
       <description></description>
     </item>
     
